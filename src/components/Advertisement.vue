@@ -72,7 +72,7 @@ export default {
   }
 
   .medium-toolbar-arrow-under:after, .medium-toolbar-arrow-over:before {
-    display: none;
+    display: none !important;
   }
 
   .checkbox {

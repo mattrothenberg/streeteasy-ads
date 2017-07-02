@@ -57,7 +57,7 @@ export default {
 
 body {
   background-color: #0080c6;
-  background-image: url('assets/skyline.png');
+  background-image: url('~./assets/skyline.png');
   background-repeat: no-repeat;
   background-position: bottom center;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
