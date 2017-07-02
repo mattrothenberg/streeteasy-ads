@@ -66,7 +66,7 @@ body {
 }
 
 button {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
 }
 
 </style>
